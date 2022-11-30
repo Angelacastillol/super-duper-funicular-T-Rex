@@ -1,1 +1,1 @@
-# super-duper-funicular-T-Rex
+# t_rex-images
